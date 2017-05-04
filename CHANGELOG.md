@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.1.2] - 2017-05-04
+## Fixed
+- CHANGELOG link references
+
 ## [1.1.1] - 2017-05-04
 ## Fixed
 - CHANGELOG link references
@@ -18,7 +22,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - README file
 
-[Unreleased]: https://github.com/tprado/release-sh/compare/1.1.1...HEAD
-[1.1.1]: https://github.com/tprado/tprado/compare/1.1.0...1.1.1
-[1.1.0]: https://github.com/tprado/tprado/compare/1.0.0...1.1.0
-[1.0.0]: https://github.com/tprado/tprado/compare/0.0.0...1.0.0
+[Unreleased]: https://github.com/tprado/release-sh/compare/1.1.2...HEAD
+[1.1.2]: https://github.com/tprado/compare/1.1.1...1.1.2
+[1.1.1]: https://github.com/tprado/compare/1.1.0...1.1.1
+[1.1.0]: https://github.com/tprado/compare/1.0.0...1.1.0
+[1.0.0]: https://github.com/tprado/compare/0.0.0...1.0.0
