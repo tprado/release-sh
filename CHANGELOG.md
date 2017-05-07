@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.3.0] - 2017-05-07
+## Added
+- checkout master before rebase
+
 ## [1.2.0] - 2017-05-04
 ## Added
 - release script
@@ -30,7 +34,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - README file
 
-[Unreleased]: https://github.com/tprado/release-sh/compare/1.2.0...HEAD
+[Unreleased]: https://github.com/tprado/release-sh/compare/1.3.0...HEAD
+[1.3.0]: https://github.com/tprado/release-sh/compare/1.2.0...1.3.0
 [1.2.0]: https://github.com/tprado/release-sh/compare/1.1.3...1.2.0
 [1.1.3]: https://github.com/tprado/release-sh/compare/1.1.2...1.1.3
 [1.1.2]: https://github.com/tprado/release-sh/compare/1.1.1...1.1.2
