@@ -50,6 +50,7 @@ if no_changelog_entry_for $release; then
   abort "no entry found in CHANGELOG for release $release"
 fi
 
+git checkout master
 git pull --rebase origin master
 
 commit_version $release
